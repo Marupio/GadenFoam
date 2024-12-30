@@ -1,0 +1,15 @@
+[submodule "reactionReader"]
+	path = reactionReader
+	url = git@github.com:Marupio/reactionReader.git
+[submodule "equationReader"]
+	path = equationReader
+	url = git@github.com:Marupio/equationReader.git
+[submodule "plcEmulator"]
+	path = plcEmulator
+	url = git@github.com:Marupio/plcEmulator.git
+[submodule "craftsFoam"]
+	path = craftsFoam
+	url = git@github.com:Marupio/craftsFoam.git
+[submodule "multiSolver"]
+	path = multiSolver
+	url = git@github.com:Marupio/multiSolver.git
